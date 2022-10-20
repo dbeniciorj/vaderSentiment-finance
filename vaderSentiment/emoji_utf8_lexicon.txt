@@ -1,3 +1,66 @@
+💎	diamond
+🔥	excellent
+🚀	bull
+🐮	bull
+🐂	bull
+🔶	diamond
+🔷	diamond
+🔸	diamond
+🔹	diamond
+🔺	bull
+🔻	bear
+💪	strong
+💪🏻	strong
+💪🏼	strong
+💪🏽	strong
+💪🏾	strong
+💪🏿	strong
+⬆️	bull
+⬆	bull
+↗️	bull
+↗	bull
+↘️	bear
+↘	bear
+⬇️	bear
+⬇	bear
+🔝	bull
+🐳	investor
+🐋	investor
+🐟	someone who holds insignificant amounts of cryptocurrencies
+🤘	cool
+🤘🏻	cool
+🤘🏼	cool
+🤘🏽	cool
+🤘🏾	cool
+🤘🏿	cool
+🖐️	stop
+🖐	stop
+🖐🏻	stop
+🖐🏼	stop
+🖐🏽	stop
+🖐🏾	stop
+🖐🏿	stop
+👍	good
+👍🏻	good
+👍🏼	good
+👍🏽	good
+👍🏾	good
+👍🏿	good
+👎	bad
+👎🏻	bad
+👎🏼	bad
+👎🏽	bad
+👎🏾	bad
+👎🏿	bad
+🤚	stop
+🤚🏻	stop
+🤚🏼	stop
+🤚🏽	stop
+🤚🏾	stop
+🤚🏿	stop
+⚡	good
+❄️	bad
+❄	bad
 😀	grinning face
 😁	beaming face with smiling eyes
 😂	face with tears of joy
@@ -1900,12 +1963,6 @@
 🤳🏽	selfie: medium skin tone
 🤳🏾	selfie: medium-dark skin tone
 🤳🏿	selfie: dark skin tone
-💪	flexed biceps
-💪🏻	flexed biceps: light skin tone
-💪🏼	flexed biceps: medium-light skin tone
-💪🏽	flexed biceps: medium skin tone
-💪🏾	flexed biceps: medium-dark skin tone
-💪🏿	flexed biceps: dark skin tone
 🦵	leg
 🦵🏻	leg: light skin tone
 🦵🏼	leg: medium-light skin tone
@@ -1974,25 +2031,12 @@
 🖖🏽	vulcan salute: medium skin tone
 🖖🏾	vulcan salute: medium-dark skin tone
 🖖🏿	vulcan salute: dark skin tone
-🤘	sign of the horns
-🤘🏻	sign of the horns: light skin tone
-🤘🏼	sign of the horns: medium-light skin tone
-🤘🏽	sign of the horns: medium skin tone
-🤘🏾	sign of the horns: medium-dark skin tone
-🤘🏿	sign of the horns: dark skin tone
 🤙	call me hand
 🤙🏻	call me hand: light skin tone
 🤙🏼	call me hand: medium-light skin tone
 🤙🏽	call me hand: medium skin tone
 🤙🏾	call me hand: medium-dark skin tone
 🤙🏿	call me hand: dark skin tone
-🖐️	hand with fingers splayed
-🖐	hand with fingers splayed
-🖐🏻	hand with fingers splayed: light skin tone
-🖐🏼	hand with fingers splayed: medium-light skin tone
-🖐🏽	hand with fingers splayed: medium skin tone
-🖐🏾	hand with fingers splayed: medium-dark skin tone
-🖐🏿	hand with fingers splayed: dark skin tone
 ✋	raised hand
 ✋🏻	raised hand: light skin tone
 ✋🏼	raised hand: medium-light skin tone
@@ -2005,18 +2049,6 @@
 👌🏽	OK hand: medium skin tone
 👌🏾	OK hand: medium-dark skin tone
 👌🏿	OK hand: dark skin tone
-👍	thumbs up
-👍🏻	thumbs up: light skin tone
-👍🏼	thumbs up: medium-light skin tone
-👍🏽	thumbs up: medium skin tone
-👍🏾	thumbs up: medium-dark skin tone
-👍🏿	thumbs up: dark skin tone
-👎	thumbs down
-👎🏻	thumbs down: light skin tone
-👎🏼	thumbs down: medium-light skin tone
-👎🏽	thumbs down: medium skin tone
-👎🏾	thumbs down: medium-dark skin tone
-👎🏿	thumbs down: dark skin tone
 ✊	raised fist
 ✊🏻	raised fist: light skin tone
 ✊🏼	raised fist: medium-light skin tone
@@ -2041,12 +2073,6 @@
 🤜🏽	right-facing fist: medium skin tone
 🤜🏾	right-facing fist: medium-dark skin tone
 🤜🏿	right-facing fist: dark skin tone
-🤚	raised back of hand
-🤚🏻	raised back of hand: light skin tone
-🤚🏼	raised back of hand: medium-light skin tone
-🤚🏽	raised back of hand: medium skin tone
-🤚🏾	raised back of hand: medium-dark skin tone
-🤚🏿	raised back of hand: dark skin tone
 👋	waving hand
 👋🏻	waving hand: light skin tone
 👋🏼	waving hand: medium-light skin tone
@@ -2207,7 +2233,6 @@
 📿	prayer beads
 💄	lipstick
 💍	ring
-💎	gem stone
 🐵	monkey face
 🐒	monkey
 🦍	gorilla
@@ -2228,8 +2253,6 @@
 🦄	unicorn face
 🦓	zebra
 🦌	deer
-🐮	cow face
-🐂	ox
 🐃	water buffalo
 🐄	cow
 🐷	pig face
@@ -2287,10 +2310,7 @@
 🐉	dragon
 🦕	sauropod
 🦖	T-Rex
-🐳	spouting whale
-🐋	whale
 🐬	dolphin
-🐟	fish
 🐠	tropical fish
 🐡	blowfish
 🦈	shark
@@ -2595,7 +2615,6 @@
 🚡	aerial tramway
 🛰️	satellite
 🛰	satellite
-🚀	rocket
 🛸	flying saucer
 🛎️	bellhop bell
 🛎	bellhop bell
@@ -2686,15 +2705,11 @@
 ☔	umbrella with rain drops
 ⛱️	umbrella on ground
 ⛱	umbrella on ground
-⚡	high voltage
-❄️	snowflake
-❄	snowflake
 ☃️	snowman
 ☃	snowman
 ⛄	snowman without snow
 ☄️	comet
 ☄	comet
-🔥	fire
 💧	droplet
 🌊	water wave
 🎃	jack-o-lantern
@@ -3040,16 +3055,8 @@
 ☢	radioactive
 ☣️	biohazard
 ☣	biohazard
-⬆️	up arrow
-⬆	up arrow
-↗️	up-right arrow
-↗	up-right arrow
 ➡️	right arrow
 ➡	right arrow
-↘️	down-right arrow
-↘	down-right arrow
-⬇️	down arrow
-⬇	down arrow
 ↙️	down-left arrow
 ↙	down-left arrow
 ⬅️	left arrow
@@ -3074,7 +3081,6 @@
 🔚	END arrow
 🔛	ON! arrow
 🔜	SOON arrow
-🔝	TOP arrow
 🛐	place of worship
 ⚛️	atom symbol
 ⚛	atom symbol
@@ -3283,12 +3289,6 @@
 ◾	black medium-small square
 ⬛	black large square
 ⬜	white large square
-🔶	large orange diamond
-🔷	large blue diamond
-🔸	small orange diamond
-🔹	small blue diamond
-🔺	red triangle pointed up
-🔻	red triangle pointed down
 💠	diamond with a dot
 🔘	radio button
 🔲	black square button
